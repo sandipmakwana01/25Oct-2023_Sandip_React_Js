@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/sandipmakwana01/Nest-Template.git/static/css/main.661b0d45.css",
+    "main.js": "/sandipmakwana01/Nest-Template.git/static/js/main.fc2ca1f0.js",
+    "static/media/f1.jpg": "/sandipmakwana01/Nest-Template.git/static/media/f1.3be9afe00c47a625e25f.jpg",
+    "static/media/s6.jpg": "/sandipmakwana01/Nest-Template.git/static/media/s6.c4be18041d8aa424a497.jpg",
+    "static/media/f9.jpg": "/sandipmakwana01/Nest-Template.git/static/media/f9.4b4aa55b182c9b521080.jpg",
+    "static/media/f3.jpg": "/sandipmakwana01/Nest-Template.git/static/media/f3.f95168c6bbbf09e5886f.jpg",
+    "static/media/f12.jpg": "/sandipmakwana01/Nest-Template.git/static/media/f12.b0da635197ff09a4a383.jpg",
+    "static/media/f2.jpg": "/sandipmakwana01/Nest-Template.git/static/media/f2.f45ac4c1512c2c5e196f.jpg",
+    "static/media/f6.jpg": "/sandipmakwana01/Nest-Template.git/static/media/f6.0c21e98727a6f6b6c764.jpg",
+    "static/media/f5.jpg": "/sandipmakwana01/Nest-Template.git/static/media/f5.22d8c2af45189c1c0306.jpg",
+    "static/media/f10.jpg": "/sandipmakwana01/Nest-Template.git/static/media/f10.6b6ff447f028fa399e84.jpg",
+    "static/media/f8.jpg": "/sandipmakwana01/Nest-Template.git/static/media/f8.4b3749a0d51184df2fb3.jpg",
+    "static/media/f11.jpg": "/sandipmakwana01/Nest-Template.git/static/media/f11.39a5486772d162bf6a59.jpg",
+    "static/media/f7.jpg": "/sandipmakwana01/Nest-Template.git/static/media/f7.7af0c2c4e9eb3a080547.jpg",
+    "static/media/f4.jpg": "/sandipmakwana01/Nest-Template.git/static/media/f4.480e15a19754effb33d6.jpg",
+    "index.html": "/sandipmakwana01/Nest-Template.git/index.html",
+    "main.661b0d45.css.map": "/sandipmakwana01/Nest-Template.git/static/css/main.661b0d45.css.map",
+    "main.fc2ca1f0.js.map": "/sandipmakwana01/Nest-Template.git/static/js/main.fc2ca1f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.661b0d45.css",
+    "static/js/main.fc2ca1f0.js"
+  ]
+}
