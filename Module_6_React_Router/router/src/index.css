@@ -1,0 +1,22 @@
+h1{
+  text-align: center;
+  padding: 20px;
+  font-size: 40px;
+  background-color: #Ccc;
+}
+a.active{
+  color: #ffffff;
+  border-bottom:2px solid red;
+  height: 45px;
+} 
+a{
+  color: #61dafb;
+  text-decoration: none;
+}
+.menu-style{
+  width: 100%;
+  line-height: 60px;
+  background-color: #20232a;
+  display: flex;
+  justify-content: space-around;
+}
